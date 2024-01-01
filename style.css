@@ -69,7 +69,10 @@ body{
 .simple-text h1 span {
     color: black !important;
 }
-li.bar:hover {
-    background: none !important;
-    color: black !important;
+.dashboard-menu ul li.bar:hover {
+    color: #000000 !important;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: transparent;
+    width: 85%;
 }
